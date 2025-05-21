@@ -1,10 +1,6 @@
 .vscode/
 .env
 __pycache__/
-*.png
-*.jpg
-*.tif
-*.jpeg
-*.webp
 google app pass.txt
+a.py
 
